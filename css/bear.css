@@ -13,5 +13,5 @@ html {
 when the screen reaches 1196px stop him from falling off the cliff by setting him to stay 800px
 from the left side of the screen before he reaches the edge. */
 @media only screen and (max-width: 1320px) {
-  #bear {top: -50px}
+  #bear {top: -100px}
 }
