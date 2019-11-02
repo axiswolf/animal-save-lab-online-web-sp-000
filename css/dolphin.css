@@ -24,7 +24,7 @@ through the hoop from screen sizes of 642px to 1090px.
 Note: you can use transform: rotate() command to accomplish this. */
 @media only screen and (max-width: 642px) and (min-width: 1090px){
   #dolphin {
-    transform: rotate(-25px);
+    transform: rotate(-.25turn);
     top: 100px;
   }
 }
