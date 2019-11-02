@@ -13,6 +13,7 @@ html {
 query that will allow the monkey to jump up over the Spice Girls from screen
 size of 406px to 1170px keeping him safe from their affection. */
 @media and only screen (min-width: 406px) and (max-width: 1170px){
-  #monkey{ left:0;
+  #monkey{ 
+  left:0;
   right: 0; }
 }
