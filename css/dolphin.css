@@ -26,5 +26,6 @@ Note: you can use transform: rotate() command to accomplish this. */
   #dolphin {
     transform: rotate(-.25turn);
     top: 100px;
+    right: 0;
   }
 }
